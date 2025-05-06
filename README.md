@@ -3,7 +3,8 @@
 This is a **Library Management System (LMS)** developed using **Java (Swing GUI)** in **NetBeans IDE**, with a **MySQL** database backend. It allows librarians to manage book inventory, student records, and transactions like book issuing and returns efficiently.
 
 ---
-
+User ID - Admin
+Password - Admin
 ## 🧠 Features
 
 ✅ Admin Login  
